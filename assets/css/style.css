@@ -1,0 +1,63 @@
+* {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+
+section{
+    text-align: ;
+
+}
+form {
+   padding-bottom: 15px;
+   display: block;
+
+}
+input[type="text"]{
+    width: 24.5%;
+    display: inline-block;
+    padding-bottom: 15px;
+
+
+
+}
+label {
+    display: block;
+
+
+
+}
+
+input[type=email] {
+    width: 50% ;
+    padding-bottom: 15px;
+
+
+}
+select {
+    width: 50.5%;
+    
+
+
+}
+span {
+    color: red;
+}
+textarea {
+    display: block;
+    width: 50%;
+}
+
+input[type=submit] {
+    width: 50.5%;
+    padding: 15px;
+    color:  white;
+    background-color: rgb(9, 139, 107);
+    box-shadow: none;
+    border: none;
+
+}
+
+input[type=submit]:hover{
+    background-color: #000;
+}
